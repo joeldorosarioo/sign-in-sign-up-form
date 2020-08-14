@@ -127,11 +127,9 @@ form.sign-in-form {
 	justify-content: center;
 	align-items: center;
 	
+	margin: .45rem;
 	border-radius: 50%;
 	border: 1px solid #333;
-	
-	margin-top: .45rem;
-	margin-bottom: .45rem;
 
 	color: #333333;
 	text-decoration: none;
